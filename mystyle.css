@@ -1,0 +1,44 @@
+<style>
+      * {
+        margin: 15px;
+        padding: 2px;
+      }
+      .card {
+        border: 2px solid black;
+        width: 55vh;
+        padding: 20px;
+        background-color: antiquewhite;
+      }
+      .img {
+        width: 42vh;
+        border: 2px solid white;
+        padding: 0;
+        margin:0 ;
+        border-radius: 30px;
+      }
+      .option {
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 5px;
+        background-color: rgb(231, 228, 228);
+      }
+      .heading {
+        font-style: italic;
+        font-weight: 900;
+        font-size: 35px;
+      }
+      .more {
+        text-align: center;
+      }
+      .button {
+        border: 1px solid white;
+        border-radius: 20px;
+        padding: 5px;
+        background-color: rgb(231, 228, 228);
+      }
+      .another {
+        border: 2px solid black;
+        border-radius: 30px;
+        background-color: white;
+      }
+    </style>
